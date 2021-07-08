@@ -1,1 +1,1 @@
-# Battlesnake-Day-1-
+# Battlesnake [Day-1]
